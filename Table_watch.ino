@@ -14,67 +14,43 @@ const String SETTINGS[] PROGMEM = {"Power Off","Outside Weather","Citata","Time 
 /////---Цитаты, выводимые на дисплей---//////
 const char s0[] PROGMEM = "";
 const char s1[] PROGMEM = "Brat 3a Brata - 3a OcH0By B3yaT0";
-const char s2[] PROGMEM = "-Sosi XYZ, RENE DECART";
-const char s3[] PROGMEM = "Ya - NaEt'(Ebanat Natriya)'";
+const char s2[] PROGMEM = "Bezumno mozhno bit' PERVIM, bezumno mozhno cherez STENY";
+const char s3[] PROGMEM = "Volk slabee L'va i Tigra, HO v cirke on Ne vistupaet";
 const char s4[] PROGMEM = "if i ever become a 'Krisoy', than i will be 'Uchitelem Splinterom'";
-const char s5[] PROGMEM = "Tobi Pi3da";
-const char s6[] PROGMEM = "IF your Life Doroga tebe, To S'ebis' OTCyda kak Molniya Mcqeen";
-const char s7[] PROGMEM = "*** --- *** ** **** **- **";
-const char s8[] PROGMEM = "Ebat' ya DOWN";
-const char s9[] PROGMEM = "-Na 0bortazh. Captain Crabs";  
-const char s10[] PROGMEM = "-3HaeT Kazhdiy EbaHaT E=MC^2. Albert Einstein";
+const char s5[] PROGMEM = "Kakoy chudesniy den'";
+const char s6[] PROGMEM = "Kakoy chudesni ya";
+const char s7[] PROGMEM = "I pesenka moya";
+const char s8[] PROGMEM = "Doroga odna V zhizni vibora net";
+const char s9[] PROGMEM = "Y Volka net Celi Tolko put'";  
+const char s10[] PROGMEM = "Luche imet' Druga, chem drug druga";
 
-const char s11[] PROGMEM = "This soft Craeated by Agent MeTp57";
-const char s12[] PROGMEM = "Call Me: Chilly Willy";
+const char s11[] PROGMEM = "Luche porvanie noski, chem soski v teski";
+const char s12[] PROGMEM = "Otstavit' (c) Stupal Igor Sergeevich";
 const char s13[] PROGMEM = "Lybe, Pivas and Tanki, I Nazivayu eto - classica";
-const char s14[] PROGMEM = "-Semerka on the table, 9 za oknom. Shavrole Le Baltica";
-const char s15[] PROGMEM = "Ebat' Kopat'. -Kopatych";   
-const char s16[] PROGMEM = "Ne Pizdi, YA Mogu i Yobnut'";
-const char s17[] PROGMEM = "Gorox - Brat Moy";
-const char s18[] PROGMEM = "Call Me: Chilly Willy";
-const char s19[] PROGMEM = "Zahaval Nesquick";
+const char s14[] PROGMEM = "Zaponite tvari, a to zabudete";
+const char s15[] PROGMEM = "Zapomnite. Zapomnili? Zabud'te";   
+const char s16[] PROGMEM = "Rabota ne Volk, Rabota - Work, Walk eto hodit'";
+const char s17[] PROGMEM = "Begat' za ovtsami udel Baranov, Ya begau za pivom";
+const char s18[] PROGMEM = "Esli Volk molchit, To lutche ego ne perebivat'";
+const char s19[] PROGMEM = "Obid ne derzhu, DERZHU PIVO, a to prol'etsa";
 const char s20[] PROGMEM = "My English - very wall";
 
 const char s21[] PROGMEM = "Chill - sounds brilliant";  
-const char s22[] PROGMEM = "A B C D - XYZ SOSI";
-const char s23[] PROGMEM = "Ne Xo4y Sgnit' Na Zavode";
-const char s24[] PROGMEM = "dx/d4t : 4-uscorenie";
-const char s25[] PROGMEM = "YA - Nichtozhestvo -March 2019";
-const char s26[] PROGMEM = "Oy Blyya, zavtra na Paryi";
-const char s27[] PROGMEM = "Godi Shli, a ya Ne Ros";
-const char s28[] PROGMEM = "My Weight: 50KG, 55 with Backpack";
+const char s22[] PROGMEM = "Beskonechnp Mozhnp smotret' na 4 Veshi: Na V, Na O, Na L, Na K";
+const char s23[] PROGMEM = "Dusha Ne Dver' - S petel' Sorvesh - Na mesto ne postavish";
+const char s24[] PROGMEM = "Ne pobival vo t'me, ne znaesh' real'noy ceni sveta";
+const char s25[] PROGMEM = "Xorosho kogda sobaka-Drug, Ploxo, kogda DRUG-Sobaka";
+const char s26[] PROGMEM = "Spehit' Nuzhno Nemedlenno";
+const char s27[] PROGMEM = "Ya kak Plenn'y inoplanetyanin ne v svoey Tarelke";
+const char s28[] PROGMEM = "Bezumno mozhno bit' Vrorym";
 const char s29[] PROGMEM = "Iam like Bird-GOVORUN: Otlichaus' YMOM i Soobrazitelnostu";
-const char s30[] PROGMEM = "Blya Budu : Salvador - Ganduras   - Nikaragua Ryadom";
-
-const char s31[] PROGMEM = "Eto Ya Pridumal KOROTKOE zamykanie";  
-const char s32[] PROGMEM = "Go Short, Man, FCK U, Im not So SHORT. 1,5 - good";
-const char s33[] PROGMEM = "Suka, Nazovesh' Menya-Poltorashka, Povidaehsya S Dalnimi Rodstvennikami";
-const char s34[] PROGMEM = "WALLE Nahui Otsuda";
-const char s35[] PROGMEM = "Yo, I have finished THE MAIN Idea of this Soft 18.07.19. I Think";
-const char s36[] PROGMEM = "SovtVare INTGearNear";
-const char s37[] PROGMEM = "Chiki-Briki";
-const char s38[] PROGMEM = "Wolf, means VOLK, means Doblest'";
-const char s39[] PROGMEM = "4O ya To blya srazy?! Nahui Proydite";
-const char s40[] PROGMEM = "YO Banana Rot,";
-
-const char s41[] PROGMEM = "Kak Uebu, BOYS'A";  
-const char s42[] PROGMEM = "S Levoy Marsh! S Pravoy V Ebalo";
-const char s43[] PROGMEM = "Esli ne Znal-Znay : Vtornik - Skidki v Pyaterochke";
-const char s44[] PROGMEM = "-OXOTA? DA NU EE v Pizdu. Shavrole Le Baltica";
-const char s45[] PROGMEM = "OY BLYAAAAAAAAAAAAAAAAAAAAAAAAAA";
-const char s46[] PROGMEM = "";
-const char s47[] PROGMEM = "";
-const char s48[] PROGMEM = "";
-const char s49[] PROGMEM = "";
-const char s50[] PROGMEM = "";
+const char s30[] PROGMEM = "Bezumno mozhno bit' Tret'im";
 
 // Массив со ссылками на цитаты
 const char* const _words[] PROGMEM = {
                                         s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,
                                         s11,s12,s13,s14,s15,s16,s17,s18,s19,s20,
-                                        s21,s22,s23,s24,s25,s26,s27,s28,s29,s30,
-                                        s31,s32,s33,s34,s35,s36,s37,s38,s39,s40,
-                                        s41,s42,s43,s44,s45
+                                        s21,s22,s23,s24,s25,s26,s27,s28,s29,s30
                                       };
 // Массив последних 10 цитат 
 // (чтобы исключить уже использованные знаения при рандоме)
