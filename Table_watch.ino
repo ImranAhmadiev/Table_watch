@@ -13,7 +13,7 @@ const String SETTINGS[] PROGMEM = {"Power Off","Outside Weather","Citata","Time 
 
 /////---Цитаты, выводимые на дисплей---//////
 const char s0[] PROGMEM = "";
-const char s1[] PROGMEM = "Brat 3a Brata - 3a OcH0By B3yaT0";
+const char s1[] PROGMEM = "Brat za Brata - 3a OcH0By B3yaT0";
 const char s2[] PROGMEM = "Bezumno mozhno bit' PERVIM, bezumno mozhno cherez STENY";
 const char s3[] PROGMEM = "Volk slabee L'va i Tigra, HO v cirke on Ne vistupaet";
 const char s4[] PROGMEM = "if i ever become a 'Krisoy', than i will be 'Uchitelem Splinterom'";
